@@ -1,0 +1,3 @@
+,reject,pvals,pvals_corrected,tstats,effectsize,alpha,alpha_corrected,step,dimension_step
+0,False,1.0,1.0,-10.405311817613287,-1.4752446224247042,0.05,0.025,0,1-2
+1,False,0.9999996369887912,1.0,-5.29257102263615,-0.7503702990167302,0.05,0.025,1,2-3

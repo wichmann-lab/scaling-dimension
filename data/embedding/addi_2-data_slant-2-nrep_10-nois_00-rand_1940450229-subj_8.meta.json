@@ -1,0 +1,19 @@
+{
+  "data": {
+    "name": "slant-2",
+    "n_dimension": 1,
+    "distance": "unknown",
+    "subject": "8",
+    "n_train_triplets": 840,
+    "n_test_triplets": 0
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3
+  ],
+  "random_state": 1940450229
+}

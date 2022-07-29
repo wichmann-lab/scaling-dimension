@@ -1,0 +1,31 @@
+{
+  "data": {
+    "name": "pitch",
+    "n_dimension": 3,
+    "distance": "euclidean",
+    "subject": null,
+    "n_objects": 36,
+    "n_train_triplets": 3096,
+    "n_test_triplets": 10000,
+    "frac_train_ndlogn": 7.999585647234544,
+    "frac_train_triplets": 0.14453781512605043,
+    "max_train_score": 0.8675710594315246,
+    "max_test_score": 0.8649,
+    "noise_sd": 0.5,
+    "distance_sd": 1.0494358582434038,
+    "distance_mean": 2.1256220129810615,
+    "difference_sd": 1.0122689177350674,
+    "difference_mean": -0.06065410165804055
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state": 2250149683
+}

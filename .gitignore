@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.egg-info/
+.idea/
+logs/
+data/raw/*.pkz
+data/raw/*  # do not share other peoples datasets
+

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "eidolon",
+    "n_dimension": 3,
+    "distance": "unknown",
+    "subject": "2",
+    "n_train_triplets": 5996,
+    "n_test_triplets": 0
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state": 3146130831
+}

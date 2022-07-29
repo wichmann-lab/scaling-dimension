@@ -1,0 +1,30 @@
+{
+  "data": {
+    "name": "color-circle",
+    "n_dimension": 2,
+    "distance": "euclidean",
+    "subject": null,
+    "n_objects": 14,
+    "n_train_triplets": 591,
+    "n_test_triplets": 10000,
+    "frac_train_ndlogn": 7.997985727812899,
+    "frac_train_triplets": 0.5412087912087912,
+    "max_train_score": 0.8071065989847716,
+    "max_test_score": 0.8041,
+    "noise_sd": 1.0,
+    "distance_sd": 1.1398818305056695,
+    "distance_mean": 2.1954200204725884,
+    "difference_sd": 1.1774526703218675,
+    "difference_mean": -0.001564452158896875
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "random_state": 321483237
+}

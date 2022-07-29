@@ -1,0 +1,63 @@
+{
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state": 4267118511,
+  "alpha": 0.05,
+  "data.name": "normal-3-60",
+  "data.n_dimension": 3,
+  "data.distance": "euclidean",
+  "data.subject": null,
+  "data.n_objects": 60,
+  "data.n_train_triplets": 2947,
+  "data.n_test_triplets": 10000,
+  "data.frac_train_ndlogn": 3.998740695467169,
+  "data.frac_train_triplets": 0.028706409507110852,
+  "data.max_train_score": 0.7872412623006447,
+  "data.max_test_score": 0.7933,
+  "data.noise_sd": 1.0,
+  "data.distance_sd": 1.0433246594567782,
+  "data.distance_mean": 2.491262268437199,
+  "data.difference_sd": 0.9517392501434997,
+  "data.difference_mean": -0.1038934430624622,
+  "correct_reject": [
+    true,
+    true,
+    false,
+    false
+  ],
+  "fwer": 0,
+  "type1_error": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "type2_error": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "power": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "dataset": "normal-3-60",
+  "n_test_repetition": 100,
+  "test_steps": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

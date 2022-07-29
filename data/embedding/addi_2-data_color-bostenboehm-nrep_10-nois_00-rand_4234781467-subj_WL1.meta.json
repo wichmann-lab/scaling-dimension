@@ -1,0 +1,21 @@
+{
+  "data": {
+    "name": "color-bostenboehm",
+    "n_dimension": 2,
+    "distance": "euclidean",
+    "subject": "WL1",
+    "n_objects": 36,
+    "n_train_triplets": 500,
+    "n_test_triplets": 0
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "random_state": 4234781467
+}

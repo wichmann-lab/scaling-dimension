@@ -1,0 +1,31 @@
+{
+  "data": {
+    "name": "normal-3-20",
+    "n_dimension": 3,
+    "distance": "euclidean",
+    "subject": null,
+    "n_objects": 20,
+    "n_train_triplets": 359,
+    "n_test_triplets": 10000,
+    "frac_train_ndlogn": 1.9972857341604155,
+    "frac_train_triplets": 0.10497076023391813,
+    "max_train_score": 0.7855153203342619,
+    "max_test_score": 0.782,
+    "noise_sd": 1.0,
+    "distance_sd": 1.119883434765756,
+    "distance_mean": 2.4038800389770274,
+    "difference_sd": 1.0103128880213457,
+    "difference_mean": -0.13341156192230452
+  },
+  "n_repeats": 10,
+  "n_splits": 10,
+  "embedding_method": "soe",
+  "embedding_dimension": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state": 366308510
+}
