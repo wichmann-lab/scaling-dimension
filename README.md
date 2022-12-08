@@ -1,11 +1,23 @@
 # Data and Code of "Estimating the perceived dimension of psychophysical stimuli using triplet accuracy and hypothesis testing"
 
-This repository contains experiments and plotting routines 
-of the [TODO: ADD PAPER LINK AFTER PUBLISHING](link) paper (Künstle, von Luxburg, Wichmann; XXX).
+This repository contains experiments and plotting routines of our publication:
+
+> Künstle, D.-E., von Luxburg, U., & Wichmann, F. A. (2022). [Estimating the perceived dimension of psychophysical stimuli using triplet accuracy and hypothesis testing.](https://doi.org/10.1167/jov.22.13.5) *Journal of Vision*, 22(13), 5. 
 
 Please consider citing the paper if you use this code.
 ```
-(TODO: ADD PAPER BIBTEX AFTER PUBLISHING)
+@article{kunstleEstimatingPerceivedDimension2022,
+  title = {Estimating the Perceived Dimension of Psychophysical Stimuli Using Triplet Accuracy and Hypothesis Testing},
+  author = {K{\"u}nstle, David-Elias and {von Luxburg}, Ulrike and Wichmann, Felix A.},
+  year = {2022},
+  month = dec,
+  journal = {Journal of Vision},
+  volume = {22},
+  number = {13},
+  pages = {5},
+  issn = {1534-7362},
+  doi = {10.1167/jov.22.13.5},
+}
 ```
 
 Contact: David-Elias Künstle, University of Tübingen, <david-elias.kuenstle[AT]uni-tuebingen.de>
