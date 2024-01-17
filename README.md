@@ -32,7 +32,7 @@ repository, and run the following commands:
 ```sh
 conda env create -f environment.yml
 conda activate dimensionality
-pip install https://github.com/dekuenstle/cblearn/archive/cdbacb367d3efa2bef94a70bdf8e505f6c7bbd30.zip
+pip install cblearn-cdbacb367d3efa2bef94a70bdf8e505f6c7bbd30.zip
 python setup.py develop
 ```
 
@@ -132,4 +132,3 @@ Künstle.
 ## License.
 
 The code itself is free to use under the [GNU General Public License v3.0](./LICENSE.txt).
-
